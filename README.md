@@ -19,7 +19,7 @@ The template includes three main sections:
 
 Here's a sneak peek of what the resume looks like:
 
-![Resume Screenshot](./rohit_resume_screenshot.png)
+![Resume Screenshot](./Milind_resume_screenshot.png)
 
 ### Online Editing
 

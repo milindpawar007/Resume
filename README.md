@@ -43,7 +43,7 @@ If you haven't already, install a LaTeX distribution for your operating system:
 ### Step 2: Clone the Repository
 Clone this repository to your local machine using:
 ```bash
-git clone https://github.com/your-repository/one_pager_resume_template.git
+git clone https://github.com/milindpawar007/Resume.git
 ```
 
 ### Step 3: Edit the LaTeX Files
